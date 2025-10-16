@@ -2,10 +2,11 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-      name: "GlaceYT",
-      password: "glace",
-      host: "87.106.62.92",
-      port:  11642,
+      name: "COCAINE",
+      password: "cocaine",
+      host: "nexus.voidhosting.vip",
+      port:  6034,
       secure: false
     }
 };
+
